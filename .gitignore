@@ -1,3 +1,20 @@
+# Mine
+lib
+share/*
+etc/*
+imgs/*
+plots/*
+results/*
+out/*
+src/grover/data/*
+*TAGS
+GPATH
+# An experiment w/ previous API and token in source file
+src/test_ibmq_experience.py
+# job list containing ids of running jobs
+jobs.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
